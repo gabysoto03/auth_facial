@@ -24,3 +24,4 @@ https://pub.dev/packages/tflite_flutter/install
 
 
 
+"# auth_facial" 
